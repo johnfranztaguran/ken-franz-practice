@@ -63,3 +63,5 @@ for (let i = 0; i < testVar.length; i++) {
 
 // console.log('log: ', testVar2)
 // console.log('log: ', typeof testVar2)
+
+console.log('kenken 1st commit')
